@@ -1,0 +1,40 @@
+[
+  {
+    position: 1,
+    username: "sololevelingbnb",
+    amount: 0.13,
+    prize: 150,
+    avatar: "https://clash.gg/_next/image?url=%2Fassets%2Fcsgo%2Favatar-anonymous.png&w=32&q=75",
+  },
+  {
+    position: 2,
+    username: "//XOA// CS.ARMY",
+    amount: 0.09,
+    prize: 50,
+    avatar:
+      "https://clash.gg/_next/image?url=https%3A%2F%2Favatars.steamstatic.com%2F0659cdefcaa1bfd25b95cb1bb7d54b138e48fe40_full.jpg&w=32&q=75",
+  },
+  {
+    position: 3,
+    username: "penita",
+    amount: 0.09,
+    prize: 25,
+    avatar: "https://clash.gg/_next/image?url=%2Fassets%2Fcsgo%2Favatar-anonymous.png&w=32&q=75",
+  },
+  {
+    position: 4,
+    username: "goku10144",
+    amount: 0.06,
+    prize: 10,
+    avatar:
+      "https://clash.gg/_next/image?url=https%3A%2F%2Favatars.steamstatic.com%2Fae31409486787e4e8290d04d61466d33d7cc41ef_full.jpg&w=32&q=75",
+  },
+  {
+    position: 5,
+    username: "Gambling is life",
+    amount: 0.03,
+    prize: 5,
+    avatar:
+      "https://clash.gg/_next/image?url=https%3A%2F%2Favatars.steamstatic.com%2F59e491c946189d9563c057c0d3223211e2b02a47_full.jpg&w=32&q=75",
+  },
+]
